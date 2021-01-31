@@ -24,13 +24,14 @@
     background-color: #ffffff;
 }
 .main-body-2{
-    background-color: #0099ff;
+    background-color: #191AA8;
+    color: white;
 }
 .main-body-3{
-    background-color: #01FF50;
+    background-color: #B93B85;
 }
 .main-body-4{
-    background-color: #FF8301;
+    background-color: #FFFFFF;
 }
 .drg-bg-black{
     background-color: black;
@@ -62,4 +63,10 @@ body {
 
 .tdn{
     text-decoration: none;
+}
+.logo-user{
+    border-radius: 500px;
+}
+.link-center{
+    display:block;text-align:center
 }
