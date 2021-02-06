@@ -30,6 +30,10 @@
 .main-body-3{
     background-color: #B93B85;
 }
+.bg-mb-3{
+    background-color: #B93B85;
+    border: 20px;
+}
 .main-body-4{
     background-color: #FFFFFF;
 }
@@ -37,6 +41,14 @@
     background-color: black;
 }
 .reasons {
+    display: flex;
+    order: 2;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 0 50px;
+}
+.players {
     display: flex;
     order: 2;
     flex-direction: row;
